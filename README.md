@@ -1,2 +1,0 @@
-# burj-al-arab-server
- 
